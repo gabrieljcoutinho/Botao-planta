@@ -55,3 +55,6 @@ O projeto é composto por dois arquivos principais (conforme o código):
 
 ---
 Projeto desenvolvido para estudos de animação e interatividade em interfaces web.
+
+<img width="323" height="298" alt="image" src="https://github.com/user-attachments/assets/1735208e-5049-4c76-89d7-1947e5671621" />
+
